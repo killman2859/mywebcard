@@ -1,0 +1,31 @@
+.nameText{
+    margin-left: 30%;
+    font-size: 50px;
+}
+
+.standartText{
+    font-size: 30px;
+}
+
+.listOfData{
+    list-style-type: disc;
+    list-style-position: outside;
+    font-size: 30px;
+    margin-inline-start: 10px;
+}
+
+.hobbyListData{
+    list-style-type: decimal;
+    font-size: 25px;
+
+}
+
+.hobbyText{
+    font-size: 25px;
+}
+
+.myImg{
+    margin-top: 100px;
+    float: right;
+
+}
